@@ -3,14 +3,14 @@
 	<groupId>com.myapp</groupId>
 	<artifactId>popcorn</artifactId>
 	<packaging>war</packaging>
-	<version>0.0.5-SNAPSHOT</version>
+	<version>0.0.5</version>
 	<name>popcorn</name>
 	<url>http://maven.apache.org</url>
 	<scm>
 		<connection>scm:git:git@github.com:Prathyush-Gopal/popcorn.git</connection>
 		<url>scm:git:git@github.com:Prathyush-Gopal/popcorn.git</url>
 		<developerConnection>scm:git:git@github.com:Prathyush-Gopal/popcorn.git</developerConnection>
-		<tag>HEAD</tag>
+		<tag>popcorn-0.0.5</tag>
 	</scm>
 	<distributionManagement>
 		<!-- Publish the versioned releases here aa -->
